@@ -1,6 +1,6 @@
 ﻿# knn-program-machine-learning
 Exam:
-![KNN Exam Table](contoh-gambar.png)
+![KNN Exam Table](IMG_20240629_012132.jpg)
 
 Dengan Dataset yang telah di definisikan dalam program.
 
