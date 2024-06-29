@@ -4,7 +4,7 @@
  * Program K-Nearest Neighbors (KNN) untuk klasifikasi penyakit gula.
  * Implementasi menggunakan PHP.
  * 
- * Dibuat oleh Muhammad Faiz Aqil Fathoni
+ * Dibuat oleh Faiz a.k.a fey
  */
 
 // Definisi Dataset
